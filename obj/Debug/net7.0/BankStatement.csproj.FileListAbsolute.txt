@@ -1,0 +1,14 @@
+C:\Users\Micheal\BankDetails\BankStatement\obj\Debug\net7.0\BankStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micheal\BankDetails\BankStatement\obj\Debug\net7.0\BankStatement.AssemblyInfoInputs.cache
+C:\Users\Micheal\BankDetails\BankStatement\obj\Debug\net7.0\BankStatement.AssemblyInfo.cs
+C:\Users\Micheal\BankDetails\BankStatement\obj\Debug\net7.0\BankStatement.csproj.CoreCompileInputs.cache
+C:\Users\Micheal\BankDetails\BankStatement\bin\Debug\net7.0\BankStatement.exe
+C:\Users\Micheal\BankDetails\BankStatement\bin\Debug\net7.0\BankStatement.deps.json
+C:\Users\Micheal\BankDetails\BankStatement\bin\Debug\net7.0\BankStatement.runtimeconfig.json
+C:\Users\Micheal\BankDetails\BankStatement\bin\Debug\net7.0\BankStatement.dll
+C:\Users\Micheal\BankDetails\BankStatement\bin\Debug\net7.0\BankStatement.pdb
+C:\Users\Micheal\BankDetails\BankStatement\obj\Debug\net7.0\BankStatement.dll
+C:\Users\Micheal\BankDetails\BankStatement\obj\Debug\net7.0\refint\BankStatement.dll
+C:\Users\Micheal\BankDetails\BankStatement\obj\Debug\net7.0\BankStatement.pdb
+C:\Users\Micheal\BankDetails\BankStatement\obj\Debug\net7.0\BankStatement.genruntimeconfig.cache
+C:\Users\Micheal\BankDetails\BankStatement\obj\Debug\net7.0\ref\BankStatement.dll
